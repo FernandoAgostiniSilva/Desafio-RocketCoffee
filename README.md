@@ -1,4 +1,4 @@
-![Github License](https://img.shields.io/github/license/FernandoAgostiniSilva/Desafio-RocketCoffee?color=blueviolet)
+![Github License](https://img.shields.io/github/license/FernandoAgostiniSilva/Desafio-RocketCoffee?color=blueviolet) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/FernandoAgostiniSilva/Desafio-RocketCoffee?color=blueviolet)
 
 <h1 align="center">
@@ -7,7 +7,7 @@
 
 <br>
 
-![ProjetoFinal](https://github.com/FernandoAgostiniSilva/Desafio-RocketCoffee/blob/master/assets/laptop.png)
+![ProjetoFinal](https://github.com/FernandoAgostiniSilva/Desafio-RocketCoffee/blob/main/assets/laptop.png)
 
 
 -----
